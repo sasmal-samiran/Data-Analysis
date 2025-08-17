@@ -13,7 +13,7 @@ This project analyzes a online store's transaction data using **Python (Pandas, 
 ## 📂 Repository Structure
 - `data/` → Raw and cleaned datasets
 - `notebooks/` → Jupyter notebooks (data cleaning + analysis)
-- `powerbi/` → Power BI `.pbix` file
+- `powerbi/` → Power BI `.pbix` file & Dashboard screenshots
 - `requirements.txt` → Python libraries required
 - `README.md` → Documentation
 
